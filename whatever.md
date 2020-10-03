@@ -12,6 +12,8 @@
 
 </center>
 
+Tolu Alimi [![img](GitHub-Mark-32px.png)](https://github.com/ta05)
+
 # Application Wire Frame
 
 > ### <center>Website Landing</center>
