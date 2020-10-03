@@ -1,5 +1,7 @@
 # Team Member Roles
 
+<center>
+
 | Name         | Role                |
 | ------------ | ------------------- |
 | Ramon Garza  | Database Management |
@@ -7,6 +9,8 @@
 | Tolu Alimi   | Back-end Engineer   |
 | Mina Ghaffar | UI/UX Designer      |
 |              |                     |
+
+</center>
 
 # Application Wire Frame
 
