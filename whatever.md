@@ -10,29 +10,29 @@
 
 # Application Wire Frame
 
-> ### <center>Website Landing
+> ### <center>Website Landing</center>
 
 ![alt text for screen readers](client/public/Asset/landing.png "Landing Page")
 
-> ### <center>Results
+> ### <center>Results</center>
 
 ![alt text for screen readers](client/public/Asset/results.png "Results")
 
-> ### <center>Company/Organization Page
+> ### <center>Company/Organization Page</center>
 
 ![alt text for screen readers](client/public/Asset/companyPage.png "Company Profile")
 
-## <center>Theme
+## <center>Theme</center>
 
 ![alt text for screen readers](client/public/Asset/theme.jpg "Colors/Theme")
 
 # Challenges
 
-> ## <center>Database
+> ## <center>Database</center>
 
 When estimating time and effort to allot to each user story, we allocated approximately 40% of our time to massaging the data and getting it into a workable state. However, what we didnt account for was the relative inexperince of the team while working distorted data tables. This lead to some spill over effects and the Database taking up 70% of team's capacity dedicated towards the project.
 
-> ## <center>Spillover Consequnces
+> ## <center>Spillover Consequnces</center>
 
 Due to the challenges team faced with the database, the capacity and focus came under some strain, which lead to some downstream ripple effects and some deadlines being missed related to: UI implementation for the company page, the news component and company card(housing data related to company culture) being in an unfinished state
 
@@ -72,7 +72,7 @@ setSearchData(searchData);
 }
 ```
 
-> ## <center>Search Form
+> ## <center>Search Form</center>
 
 ```JSX
 
