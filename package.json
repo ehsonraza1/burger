@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ehsonraza1/burger#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^5.0.0",
     "mysql2": "^2.1.0"
   }
